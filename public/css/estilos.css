@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Patua+One|Quicksand:400,700');
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Patua One', cursive;
+}
+
+body {
+    font-family: 'Quicksand', sans-serif;
+}
